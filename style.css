@@ -54,3 +54,27 @@ button{
     background-color:#7895CB ;
 
 }
+
+.d2{
+    position: absolute;
+    background-color: #eeeeee;
+    width: 310px;
+    height: 200px;
+    border-radius: 100px 100px 0px 0px;
+    right: -30px;
+    padding: 10px;
+    transition: 1s;
+}
+
+#Login{
+    color:#4A55A2;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+
+button:hover{
+    background-color: #4A55A2;
+    cursor: pointer;
+
+}
