@@ -78,3 +78,10 @@ button:hover{
     cursor: pointer;
 
 }
+
+
+#check:checked ~ .d2{
+    transform: translateY(-250px);
+    height: 2500px;
+
+}
